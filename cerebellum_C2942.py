@@ -4,6 +4,11 @@
 Created on March 1 2019
 
 @author: Marie Claire Capolei - macca@elektro.dtu.dk
+how to cite:
+
+Capolei, Marie Claire, et al. "A Cerebellar Internal Models Control Architecture for Online Sensorimotor Adaptation of a Humanoid Robot Acting in a Dynamic Environment." IEEE Robotics and Automation Letters 5.1 (2019): 80-87.
+
+Capolei, Marie Claire, et al. "A biomimetic control method increases the adaptability of a humanoid robot acting in a dynamic environment." Frontiers in neurorobotics 13 (2019): 70.
 """
 
 import sys
